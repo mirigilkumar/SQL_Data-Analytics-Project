@@ -1,20 +1,35 @@
-# SQL---Data-Analytics-Project
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
-This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+# SQL Data Analytics Project
+
+A comprehensive collection of SQL scripts focused on **data exploration, analytics, and reporting**.  
+This repository is designed for **Data Analysts and BI Professionals** to efficiently explore, segment, and analyze data in relational databases.
+
+The queries demonstrate **SQL best practices** and cover a wide range of analytical techniques, including:
+
+- Database exploration  
+- Measures and KPIs  
+- Time-based trend analysis  
+- Cumulative analytics  
+- Segmentation and cohort analysis  
+- Business-focused reporting queries  
 
 ---
 
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-
-
 ## 👋 About Me
 
-Hi, I’m Mirigil Kumar M.
-I’m a US Healthcare RCM Analyst with 10+ years of experience, skilled in Python, SQL, Pandas, NumPy, Tableau, and Power BI.
+Hi, I’m **Mirigil Kumar M** 👋  
 
-I use data to solve problems, build insights, and share my projects here on GitHub.
+I’m a **US Healthcare RCM Analyst** with **10+ years of experience**, specializing in transforming raw data into meaningful insights.
+
+### 🔧 Skills & Tools
+- SQL  
+- Python  
+- Pandas & NumPy  
+- Tableau  
+- Power BI  
+
+I enjoy solving business problems with data and sharing my learning through real-world projects on GitHub.
+
+### 📬 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mirigilkumar)
+[![Gmail](https://img.shields.io/badge/Gmail-mirigilkumar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirigilkumar@gmail.com)
